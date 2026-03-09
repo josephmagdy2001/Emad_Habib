@@ -1,0 +1,186 @@
+{
+  "company_name": "Geo Red Sea",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About Us",
+    "contact": "Contact",
+    "careers": "Careers"
+  },
+  "hero": {
+    "title": "Professional Surveying Solutions",
+    "subtitle": "Providing the most accurate surveying and GIS services in the Red Sea region",
+    "cta": "Explore Services",
+    "slides": [
+      {
+        "title": "Accurate Land Surveying",
+        "description": "Using the latest equipment to ensure the highest levels of precision."
+      },
+      {
+        "title": "GIS Solutions",
+        "description": "Spatial data analysis to support decision-making."
+      },
+      {
+        "title": "Specialized Training",
+        "description": "Training courses on the latest surveying devices and software."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Land Surveying",
+        "description": "Integrated land surveying services for construction and engineering projects."
+      },
+      {
+        "title": "Grid Leveling",
+        "description": "Determining ground levels with high accuracy for project planning."
+      },
+      {
+        "title": "Site & Land Plot Delivery",
+        "description": "Defining and delivering site and land boundaries with legal and technical precision."
+      },
+      {
+        "title": "Coordinate Mapping",
+        "description": "Mapping and signing coordinates on approved cadastral maps."
+      },
+      {
+        "title": "Training Courses",
+        "description": "Training on surveying equipment and GIS software for professionals and students."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "experience": "Years of Experience",
+    "description": "Geo Red Sea is a leading company in the field of surveying and GIS. We are committed to providing accurate and innovative engineering solutions that meet our clients' needs across various sectors.",
+    "stats": [
+      { "label": "Projects Completed", "value": "500+" },
+      { "label": "Happy Clients", "value": "200+" },
+      { "label": "Years Experience", "value": "15+" }
+    ],
+    "values": ["Accuracy", "Innovation", "Reliability", "Expertise"]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "I'm currently available for freelance work or full-time positions.",
+    "info_title": "Contact Information",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone Number",
+    "message": "How can I help you?",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message Sent! I Will See Your Message ✅",
+    "error": "Try Again ❌",
+    "validation": {
+      "required": "This field is required",
+      "email": "Invalid email address"
+    }
+  },
+"testimonials": {
+    "title": "Client Testimonials",
+    "items": [
+      {
+        "name": "Eng. Ahmed Salim",
+        "role": "Project Manager",
+        "quote": "Geo Red Sea provided us with exceptional surveying accuracy. Their team is professional and highly skilled with the latest equipment."
+      },
+      {
+        "name": "Dr. Sarah Johnson",
+        "role": "Environmental Consultant",
+        "quote": "The GIS analysis provided was crucial for our environmental impact study. Precise, fast, and reliable service."
+      },
+      {
+        "name": "Ibrahim Hassan",
+        "role": "Real Estate Developer",
+        "quote": "Best surveying company in the Red Sea region. They helped us resolve complex boundary issues with ease."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "All rights reserved © Geo Red Sea",
+    "supervision": "Under the supervision of Eng. / Emad Habib Rezkallah"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "A showcase of our precision and expertise in various surveying and engineering projects.",
+    "items": [
+      {
+        "id": "land-surveying",
+        "title": "Land Surveying Project",
+        "category": "Land Surveying",
+        "description": "Comprehensive land surveying for a new residential development.",
+        "details": [
+          "Precise boundary identification using high-accuracy GPS.",
+          "Creation of detailed topographic maps for site planning.",
+          "Legal documentation and certification for land registration.",
+          "Coordination with local authorities for regulatory compliance.",
+          "Implementation of modern GIS data for long-term management."
+        ]
+      },
+      {
+        "id": "road-infrastructure",
+        "title": "Road Infrastructure Mapping",
+        "category": "Infrastructure",
+        "description": "Precise grid leveling and mapping for a major highway project.",
+        "details": [
+          "High-precision grid leveling for road design and grading.",
+          "Alignment and staking of road centerlines and boundaries.",
+          "Volume calculations for earthwork and material estimation.",
+          "Real-time monitoring of construction progress using Total Station.",
+          "As-built surveys to verify compliance with engineering designs."
+        ]
+      },
+      {
+        "id": "urban-planning",
+        "title": "Urban Planning GIS",
+        "category": "GIS",
+        "description": "Spatial data analysis and mapping for urban expansion planning.",
+        "details": [
+          "Integration of multi-source spatial data into a unified GIS.",
+          "Analysis of urban growth patterns and land use suitability.",
+          "Creation of interactive digital maps for urban planners.",
+          "Infrastructure network planning including water and power lines.",
+          "Environmental impact assessment using spatial modeling."
+        ]
+      },
+      {
+        "id": "coastal-boundary",
+        "title": "Coastal Boundary Definition",
+        "category": "Cadastral",
+        "description": "Legal boundary definition for coastal resorts in the Red Sea.",
+        "details": [
+          "Accurate measurement of high-water marks and shoreline changes.",
+          "Definition of legal boundaries for private and public zones.",
+          "Resolution of boundary overlaps and property disputes.",
+          "Preparation of certified cadastral maps for resort development.",
+          "Consultation on environmental regulations for coastal construction."
+        ]
+      }
+    ]
+  },
+  "careers": {
+    "title": "Join Our Team",
+    "subtitle": "We are always looking for talented surveyors and engineers to join our growing family.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "specialty": "Specialty",
+      "specialties": {
+        "land_surveyor": "Land Surveyor",
+        "gis_specialist": "GIS Specialist",
+        "cad_engineer": "CAD Engineer",
+        "total_station_operator": "Total Station Operator",
+        "assistant_surveyor": "Assistant Surveyor"
+      },
+      "cv": "Upload CV (PDF)",
+      "message": "Brief Introduction",
+      "submit": "Apply Now",
+      "success": "Application sent successfully! We will contact you soon."
+    }
+  }
+}
